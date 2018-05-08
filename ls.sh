@@ -1,22 +1,23 @@
 ls
--This will list all files in current folder
+-list all files in current folder
 
 
 
 ls -a
--Lists all files (include hidden files)
--(Hidden files' name starts with a dot(.))
+-list all files (include hidden files)
+-hidden files' name starts with a dot(.)
 
 
 
 ls -l
--This will list all files along with
+-list all files along with permission information
+-l stands for "long"
 
 
 
 ls *.txt
--Wildcard matching
--Lists all files of the form [whatever].txt
+-wildcard matching
+-lists all files of the form [whatever].txt
 
 
 
