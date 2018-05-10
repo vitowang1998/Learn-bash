@@ -11,6 +11,7 @@ cat -n [file]
 
 cat < [file]
 -redirect the content of [file] to cat. cat will display the content of [file]
+-same as cat [file] when there is only 1 file
 
 cat [src] > [dest]
 -equivalent as cp [src] [dest]
