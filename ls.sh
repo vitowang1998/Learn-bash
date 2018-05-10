@@ -1,9 +1,10 @@
 ls
--list all files in current folder
+-list all (non-hidden) files in current folder
 
 
 
 ls -a
+-a stands for "all"
 -list all files (include hidden files)
 -hidden files' name starts with a dot(.)
 
@@ -27,3 +28,6 @@ ls -1
 
 
 
+ls -lh (or ls -l -h)
+-list all files along with permission information
+-change the size of file to human-readable words
