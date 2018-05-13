@@ -35,8 +35,8 @@ $
 ?
 -0 or 1 occurrence of the proceeding expression
 
-
-
+\[SPECIAL CHAR]
+-deal [SPECIAL CHAR] as the character instead of an operator
 
 
 
