@@ -20,6 +20,11 @@ j
 l
 -right
 
+b
+-move the cursor to the first character of the proceeding word
+
+w
+-move the cursor to the first character of the next word
 
 u
 -undo (in Normal Mode)
