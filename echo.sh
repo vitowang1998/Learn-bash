@@ -11,3 +11,9 @@ echo [GOLBBING PARTTERN]
 -print the files in current directory that fits the [GOLBBING PARTTERN]
 -note that if there exists no files that fit the [GOLBBING PARTTERN], echo prints [GOLBBING PARTTERN]
 -hence we should not use echo to print the files that conform to a [GOLBBING PARTTERN], use "ls" instead.
+
+
+
+echo $[variable]
+-print the value of [variable] if [variable] is previously defined
+
