@@ -34,3 +34,6 @@ i
 
 dd
 -delete a line
+
+dw
+-delete a word
