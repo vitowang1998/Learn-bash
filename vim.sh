@@ -37,3 +37,6 @@ dd
 
 dw
 -delete a word
+
+vim -O [file1] [file2]
+-open [file1] [file2] simultaneously
