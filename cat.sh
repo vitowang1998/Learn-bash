@@ -20,3 +20,6 @@ cat [src] > [dest]
 cat [src] > [dest] 2> [err]
 -2> will redirect the error message
 -even if no errors generated, [err] would also be created.
+
+cat > [file]
+-Direct input to [file]
