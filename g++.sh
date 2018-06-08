@@ -11,3 +11,6 @@ g++ [file] -std=c++14
 
 g++ -Wall [file]
 -compile [file] with g++ and enable all warnings
+
+g++ -w [file]
+-compile [file] with no warning info
