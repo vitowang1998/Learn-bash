@@ -14,3 +14,6 @@ g++ -Wall [file]
 
 g++ -w [file]
 -compile [file] with no warning info
+
+g++ -v
+-check the current version of "g++"
