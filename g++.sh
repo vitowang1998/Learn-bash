@@ -17,3 +17,6 @@ g++ -w [file]
 
 g++ -v
 -check the current version of "g++"
+
+g++ -c [file]
+-compile [file] to a .o file
