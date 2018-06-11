@@ -20,3 +20,6 @@ g++ -v
 
 g++ -c [file]
 -compile [file] to a .o file
+
+g++ -pedantic [file]
+-compile [file] and show all the warnings according to the ISO standard
