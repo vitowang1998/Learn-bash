@@ -12,6 +12,14 @@ egrep "pattern1|pattern2" [file]
 -prints every line in [file] which contains [pattern1] or [pattern2]
 -quotation needed when special characters present
 
+egrep "(Pa|pa)ttern" [file]
+-prints every line in [file] which contains "Pattern" or "pattern"
+
+egrep "[Pp]attern" [file]
+-prints every line in [file] which contains "Pattern" or "pattern"
+
+egrep 
+
 egrep -n 【pattern】 【file】
 -prints every line in 【file】 that contains 【pattern】, along with the line number
 -note that n is the line number in of the entries in 【file】
