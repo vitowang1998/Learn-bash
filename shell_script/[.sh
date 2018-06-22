@@ -23,7 +23,12 @@
 [ -e file_name ]
 -true if file_name exists
 
-
 [ -e "file" ]
 -return true if "file" exists
 -false otherwise
+
+[ "$s1" = "$s2" ]
+-return true if s1 = s2
+
+[ "$s1" != "$s2" ]
+-return true if s1 != s2
