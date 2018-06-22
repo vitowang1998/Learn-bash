@@ -40,3 +40,9 @@ dw
 
 vim -O [file1] [file2]
 -open [file1] [file2] simultaneously
+
+0/^
+-jump to the beginning of the line
+
+$
+-jump to the end of the line
