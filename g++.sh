@@ -3,6 +3,8 @@ g++
 g++ [file]
 -compile [file] with g++ compiler
 
+g++ -c
+
 g++ [file] -o [name]
 -compile [file] with g++ and name the executable program [name]
 
