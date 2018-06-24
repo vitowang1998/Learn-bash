@@ -3,7 +3,8 @@ g++
 g++ [file]
 -compile [file] with g++ compiler
 
-g++ -c
+g++ -c [C++ file]
+-compile [C++ file] and create a corresponding object file.
 
 g++ [file] -o [name]
 -compile [file] with g++ and name the executable program [name]
