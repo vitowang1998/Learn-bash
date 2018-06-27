@@ -22,4 +22,4 @@ cat [src] > [dest] 2> [err]
 -even if no errors generated, [err] would also be created.
 
 cat > [file]
--Direct input to [file]
+-Direct stdin to [file]
