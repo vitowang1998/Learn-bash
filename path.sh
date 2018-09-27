@@ -8,3 +8,5 @@ Absolute Path
 
 Relative Path
 -not starting from the root
+
+$PATH
