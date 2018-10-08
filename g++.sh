@@ -26,3 +26,7 @@ g++ -c [file]
 
 g++ -pedantic [file]
 -compile [file] and show all the warnings according to the ISO standard
+
+g++ -Wall [file]
+-turn on most of the warnings for compiling c++ files
+
