@@ -20,3 +20,6 @@ git stash
 
 git stash apply
 -restores the stashed work from the dirty directory
+
+git gc --prune=now
+-solves the problem "cannot lock ref"
