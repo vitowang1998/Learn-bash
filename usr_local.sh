@@ -1,0 +1,2 @@
+# Historically, the directory /usr/local is used to store user-installed programs and data.
+# From observation, it is "somehow" necessary to let this directory owned by the "user" if you want to use "HomeBrew".
