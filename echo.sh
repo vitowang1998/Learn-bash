@@ -17,3 +17,6 @@ echo [GOLBBING PARTTERN]
 echo $[variable]
 -print the value of [variable] if [variable] is previously defined
 
+
+echo $USER
+-print the name of the current user
